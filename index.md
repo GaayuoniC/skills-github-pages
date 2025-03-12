@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Welcome to my personal blog
 ---
+# Christian Gaayuoni #
+## Welcome! ##
+
 
